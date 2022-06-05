@@ -146,7 +146,7 @@
 <h3 id="07-2、3、5的倍数特征"><a href="#07-2、3、5的倍数特征" class="headerlink" title="07 2、3、5的倍数特征"></a>07 2、3、5的倍数特征</h3><p><strong>2 的倍数特征</strong>：个位是0、2、4、6、8</p>
 <p><strong>5 的倍数特征</strong>：个位是 0 或 5</p>
 <blockquote>
-<p>判断 2 和 5 的倍数特征时，看数的个位</p>
+<p>判断 2 和 5 的倍数时，看数的个位</p>
 </blockquote>
 <p><strong>3 的倍数特征</strong>：一个数的各位数之和时 3 的倍数，这个数就是 3 的倍数</p>
 <blockquote>
@@ -155,6 +155,8 @@
 <p>一个数是 3 的倍数，也可以说这个数含有因数 3</p>
 <p>一个数是 5 的倍数，也可以说这个数含有因数 5</p>
 </blockquote>
+<h3 id="08-积的变化规律"><a href="#08-积的变化规律" class="headerlink" title="08 积的变化规律"></a>08 积的变化规律</h3><p>在乘法里，一个因数不变，另一个因数乘一个数或除以一个不为 0 的数，积也乘或除以相同的数</p>
+<p><img src="/24825520/03.jpeg" alt></p>
 ]]></content>
       <categories>
         <category>汇总整理</category>
