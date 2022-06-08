@@ -45,6 +45,70 @@
       </tags>
   </entry>
   <entry>
+    <title>难题汇总 答案</title>
+    <url>/4afb9ac1/</url>
+    <content><![CDATA[<h3 id="01"><a href="#01" class="headerlink" title="01"></a>01</h3><p>在计算一道乘法时,冬冬把一个因数 97看成了79，结果得到的积比正确的少了180。正确的积应该是多少?</p>
+<blockquote>
+<p>解析：</p>
+<p>&emsp;&emsp;两个因数中，一个看错了，但另一个没有错。</p>
+<p>&emsp;&emsp;题中条件：错误答案比正确的少180，也就是 <strong>正确答案 - 错误答案 = 180</strong></p>
+<p>&emsp;&emsp;假设正确的因数为 a，则 <strong>正确答案 = a × 97，错误答案 = a × 79</strong></p>
+<p>&emsp;&emsp;汇总上面两个条件得：a × 97 - a × 79 = 180，利用乘法分配律整理后得 a × （97 - 79） = 180，由此可以求出正确的因数 a = 10，然后用 10 × 97 得出正确的积。</p>
+</blockquote>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  180 ÷ （97 - 79）</span><br><span class="line">= 180 ÷ 18</span><br><span class="line">= 10</span><br><span class="line">  10 × 97 =970</span><br><span class="line">  答：正确的积应该是970。</span><br></pre></td></tr></table></figure>
+<h4 id="针对训练"><a href="#针对训练" class="headerlink" title="针对训练"></a>针对训练</h4><p>(1)  小新在做一道数学题时，错把第二个因数 56 看成了 58，结果比原来的结果多出了 22，请问正确结果是多少？</p>
+<p>(2) 红在做一道乘法题时，将其中一个因数 16 错看成了 9，结果得到的积比正确结果少了 301，正确的积是多少？</p>
+<h4 id="类似题型"><a href="#类似题型" class="headerlink" title="类似题型"></a>类似题型</h4><p>(3) 小马虎在计算乘法算式时，错误的把其中一个因数 29 看成了 9，得到的积是180，那么正确的计算结果是多少？</p>
+<p>(4) 把一个因数 16 错看成了 6，得到的结果是 840，那么正确的计算结果是多少？</p>
+<p>【616】【688】【580】【2240】</p>
+<h3 id="02"><a href="#02" class="headerlink" title="02"></a>02</h3><p>甲桶里原来有 $\frac{8}{9}$ 千克水，往乙桶里倒 $\frac{2}{9}$ 千克水(水没有溢出)，甲、乙两桶水的质量正好相同，乙桶里原来有水多少千克？</p>
+<blockquote>
+<p>解析：</p>
+<p>&emsp;&emsp;甲桶往乙桶里倒水，然后质量相同，说明：<strong>甲桶的水比乙桶的水多</strong></p>
+<p>&emsp;&emsp;倒了 $\frac{2}{9}$ 千克水后，甲乙两桶质量相同，说明：甲比乙多两个  $\frac{2}{9}$ 千克</p>
+<p>&emsp;&emsp;想不明白时，可以想：甲有10苹果，乙有6个苹果，甲给乙几个苹果，两人就相等了！【甲比乙多4个，不能都给乙，而是只需要给4个的一半就可以了；也就是甲需要给乙两个苹果</p>
+</blockquote>
+<p>$\frac{2}{9}$ + $\frac{2}{9}$ = $\frac{4}{9}$（千克）</p>
+<p>$\frac{8}{9}$ - $\frac{4}{9}$ = $\frac{4}{9}$（千克）</p>
+<p>综合算式：</p>
+<p>&emsp;$\frac{8}{9}$ - （$\frac{2}{9}$ + $\frac{2}{9}$ ）</p>
+<p>= $\frac{8}{9}$ - $\frac{4}{9}$ </p>
+<p>= $\frac{4}{9}$ （千克）</p>
+<p>答：乙桶里原来有水 $\frac{4}{9}$ 千克。</p>
+<h4 id="针对训练-1"><a href="#针对训练-1" class="headerlink" title="针对训练"></a>针对训练</h4><p>（1）哥哥有 23 块糖，给弟弟 5 块糖后，两人一样多，弟弟原来有多少块糖？</p>
+<p>（2）有两篮苹果，第一篮 29 个，第二篮 5 个，从第一篮中拿几个放入第二篮，两篮的苹果数相等？</p>
+<p>（3）爸爸有 18 张卡片，送给儿子 4 张后，两人的卡片同样多。儿子原来有多少张卡片？</p>
+<h4 id="类似题型-1"><a href="#类似题型-1" class="headerlink" title="类似题型"></a>类似题型</h4><p>（4）甲给乙 23 元后，甲乙两人的钱一样多，原来甲比乙多几元？</p>
+<p>（5）甲乙一样重，从甲拿 60 千克给乙，此时甲 比 乙 少多少千克？</p>
+<p>【13】【12】【10】【46】 【120】</p>
+]]></content>
+      <categories>
+        <category>答案</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+        <tag>搜集</tag>
+        <tag>难题</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>难题汇总</title>
+    <url>/f0df0bb2/</url>
+    <content><![CDATA[<p>（01）在计算一道乘法时,冬冬把一个因数 97看成了79，结果得到的积比正确的少了180。正确的积应该是多少?</p>
+<p>详细解析及针对训练：<a href="/4afb9ac1/#01">点击这里进入</a></p>
+<p>（02）甲桶里原来有 $\frac{8}{9}$ 千克水，往乙桶里倒 $\frac{2}{9}$ 千克水(水没有溢出)，甲、乙两桶水的质量正好相同，乙桶里原来有水多少千克？</p>
+<p>详细解析及针对训练：<a href="/4afb9ac1/#02">点击这里进入</a></p>
+]]></content>
+      <categories>
+        <category>试题</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+        <tag>搜集</tag>
+        <tag>难题</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>期末卷汇编 河北各地小学名校 十六套 英语</title>
     <url>/611b510e/</url>
     <content><![CDATA[<p><img src="/611b510e/01.jpg" alt><br><img src="/611b510e/02.jpg" alt><br><img src="/611b510e/03.jpg" alt><br><img src="/611b510e/04.jpg" alt></p>
@@ -228,10 +292,6 @@
 </ul>
 <p>1元 = 10角、1角 = 10分</p>
 <p>1元 = 100分</p>
-<blockquote>
-<p>提示：单位不相邻时，进率需要注意；</p>
-<p>例如：米 和 厘米 之间还有一个 分米</p>
-</blockquote>
 <p><strong>单位转换：</strong></p>
 <ul>
 <li>大单位转小单位，是乘进率<ul>
