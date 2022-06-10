@@ -45,6 +45,78 @@
       </tags>
   </entry>
   <entry>
+    <title>多边形知识点</title>
+    <url>/e0901694/</url>
+    <content><![CDATA[<h2 id="三角形的认识"><a href="#三角形的认识" class="headerlink" title="三角形的认识"></a>三角形的认识</h2><p><strong>三角形的特性</strong>：三角形具有稳定性</p>
+<blockquote>
+<p>三角形具有稳定性，也就是不易变形</p>
+<p>四边形不具有稳定性，容易变形</p>
+</blockquote>
+<p><strong>三角形三条边的关系</strong>：任意两边之和大于第三边</p>
+<ul>
+<li>拓展（三角形边角关系）：<ul>
+<li>在三角形中，较长边所对的角也较大，较大角所对的边也较长</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p><font color="red"><strong>判断三条线段能否围成三角形的方法</strong></font>：</p>
+<p>&emsp;&emsp;把<strong>较短的两条边相加与最长的边比较</strong>，若较短的两条边之和大于最长边，说明能围成三角形，否则不能。</p>
+<p>三角形任意两边之和大于第三边，实质上是 “<strong>两点之间线段最短</strong>” 这一规律的延伸。</p>
+</blockquote>
+<p><strong>三角形分类</strong></p>
+<script type="math/tex; mode=display">
+\begin{equation}
+按角分
+\left\{
+             \begin{array}{lr}
+            锐角三角形：三个角都是锐角的三角形\\ \\
+            直角三角形：有一个角是直角的三角形\\ \\
+            钝角三角形：有一个角是钝角的三角形
+             \end{array}
+\right.
+\end{equation}</script><blockquote>
+<p>以 90° 角为分界线，<strong>小于</strong> 90° 的角称为<strong>锐角</strong>，<strong>等于</strong> 90° 的角称为<strong>直角</strong>，<strong>大于</strong> 90° 的角称为<strong>钝角</strong></p>
+<p><strong>任意一个三角形都有两个角是锐角</strong></p>
+<p>按角分类时，<font color="#FF0000" size="3"><strong>关键看最大角</strong></font>，最大角是什么角，这个三角形就是什么三角形</p>
+</blockquote>
+<p><img src="/e0901694/04.jpeg" alt></p>
+<script type="math/tex; mode=display">
+\begin{equation}
+按边分
+\left\{
+    \begin{array}{lr}
+    不等边三角形：三条边都不相等 \\ \\
+    等腰三角形：两条边相等 \\ \\
+    等边三角形：三条边相等
+    \end{array}
+\right.
+\end{equation}</script><p><img src="/e0901694/05.jpeg" alt></p>
+<p><strong>三角形各部分的名称：</strong></p>
+<p><img src="/e0901694/01.png" alt></p>
+<p><strong>特殊</strong>：等腰三角形</p>
+<p><img src="/e0901694/02.png" alt></p>
+<blockquote>
+<p>三角形有三条边，三个角和三个顶点</p>
+<p>三角形的底和高是一一对应的</p>
+<p>三角形有三条高，画哪条边上的高，垂足就在那条边上（或边的延长线上）</p>
+</blockquote>
+<p><strong>三角形高的画法：</strong></p>
+<p><img src="/e0901694/03.png" alt></p>
+<p>锐角三角形、钝角三角形、直角三角形3条高线的样子：</p>
+<p><img src="/e0901694/06.png" alt></p>
+<p><img src="/e0901694/07.png" alt></p>
+<p><img src="/e0901694/08.png" alt></p>
+]]></content>
+      <categories>
+        <category>汇总整理</category>
+      </categories>
+      <tags>
+        <tag>四年级下册</tag>
+        <tag>多边形</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>难题汇总 答案</title>
     <url>/4afb9ac1/</url>
     <content><![CDATA[<h3 id="01"><a href="#01" class="headerlink" title="01"></a>01</h3><p>在计算一道乘法时,冬冬把一个因数 97看成了79，结果得到的积比正确的少了180。正确的积应该是多少?</p>
@@ -240,50 +312,10 @@
   <entry>
     <title>四年级下册复习知识汇总</title>
     <url>/24825520/</url>
-    <content><![CDATA[<h3 id="三角形"><a href="#三角形" class="headerlink" title="三角形"></a>三角形</h3><p><strong>三角形的特性</strong>：三角形具有稳定性</p>
-<blockquote>
-<p>三角形具有稳定性，也就是不易变形</p>
-<p>四边形不具有稳定性，容易变形</p>
-</blockquote>
-<p><strong>三角形三条边的关系</strong>：任意两边之和大于第三边</p>
+    <content><![CDATA[<h3 id="第四单元多边形的认识"><a href="#第四单元多边形的认识" class="headerlink" title="第四单元多边形的认识"></a>第四单元多边形的认识</h3><p>详细知识点，点击下面链接：</p>
 <ul>
-<li>拓展（三角形边角关系）：<ul>
-<li>在三角形中，较长边所对的角也较大，较大角所对的边也较长</li>
+<li><a href="/e0901694/#三角形的认识">三角形的认识</a></li>
 </ul>
-</li>
-</ul>
-<blockquote>
-<p><font color="red"><strong>判断三条线段能否围成三角形的方法</strong></font>：</p>
-<p>&emsp;&emsp;把<strong>较短的两条边相加与最长的边比较</strong>，若较短的两条边之和大于最长边，说明能围成三角形，否则不能。</p>
-<p>三角形任意两边之和大于第三边，实质上是 “<strong>两点之间线段最短</strong>” 这一规律的延伸。</p>
-</blockquote>
-<h4 id="三角形分类"><a href="#三角形分类" class="headerlink" title="三角形分类"></a>三角形分类</h4><script type="math/tex; mode=display">
-\begin{equation}
-按角分
-\left\{
-             \begin{array}{lr}
-            锐角三角形：三个角都是锐角的三角形\\ \\
-            直角三角形：有一个角是直角的三角形\\ \\
-            钝角三角形：有一个角是钝角的三角形
-             \end{array}
-\right.
-\end{equation}</script><blockquote>
-<p>以 90° 角为分界线，<strong>小于</strong> 90° 的角称为<strong>锐角</strong>，<strong>等于</strong> 90° 的角称为<strong>直角</strong>，<strong>大于</strong> 90° 的角称为<strong>钝角</strong></p>
-<p><strong>任意一个三角形都有两个角是锐角</strong></p>
-<p>按角分类时，<font color="#FF0000" size="3"><strong>关键看最大角</strong></font>，最大角是什么角，这个三角形就是什么三角形</p>
-</blockquote>
-<p><img src="/24825520/04.jpeg" alt></p>
-<script type="math/tex; mode=display">
-\begin{equation}
-按边分
-\left\{
-    \begin{array}{lr}
-    不等边三角形：三条边都不相等 \\ \\
-    等腰三角形：两条边相等 \\ \\
-    等边三角形：三条边相等
-    \end{array}
-\right.
-\end{equation}</script><p><img src="/24825520/05.jpeg" alt></p>
 <h3 id="01-分数与小数的关系"><a href="#01-分数与小数的关系" class="headerlink" title="01 分数与小数的关系"></a>01 分数与小数的关系</h3><p>分母是10的分数，可以化成一位小数；</p>
 <p>分母是100的分数，可以化成两位小数；</p>
 <p>分母是100的分数，可以化成三位小数；</p>
