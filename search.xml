@@ -97,6 +97,7 @@
 <p><strong>特殊</strong>：等腰三角形</p>
 <p><img src="/e0901694/02.png" alt></p>
 <blockquote>
+<p>等腰三角形 和 等边三角形 都是<strong>轴对称图形</strong></p>
 <p>三角形有三条边，三个角和三个顶点</p>
 <p>三角形的底和高是一一对应的</p>
 <p>三角形有三条高，画哪条边上的高，垂足就在那条边上（或边的延长线上）</p>
@@ -115,7 +116,7 @@
 </li>
 </ul>
 <h2 id="平行四边形"><a href="#平行四边形" class="headerlink" title="平行四边形"></a>平行四边形</h2><ul>
-<li>两组对边分别平行的四边形叫做平行四边形</li>
+<li>两组对边分别平行的四边形叫做<strong>平行四边形</strong></li>
 <li>平行四边形具有不稳定性</li>
 <li>平行四边形的两组对边分别平行且相等，两组对角分别相等</li>
 <li>平行四边形有无数条高<ul>
@@ -124,6 +125,74 @@
 </li>
 </ul>
 <p><img src="/e0901694/09.png" alt></p>
+<p><strong>正方形、长方形和平行四边形的关系：</strong></p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th style="text-align:center">正方形</th>
+<th style="text-align:center">长方形</th>
+<th style="text-align:center">平行四边形</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">两组对边分别平行<br>四条边都相等</td>
+<td style="text-align:center">两组对边分别平行且相等</td>
+<td style="text-align:center">两组对边分别平行且相等</td>
+</tr>
+<tr>
+<td style="text-align:center">四个角都是直角</td>
+<td style="text-align:center">四个角都是直角</td>
+<td style="text-align:center">对角相等</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><img src="/e0901694/10.jpeg" alt></p>
+<p><strong>平行四边形与长方形转变：</strong></p>
+<ul>
+<li>长方形拉成平行四边形：<ul>
+<li>周长不变</li>
+<li>面积变小</li>
+</ul>
+</li>
+</ul>
+<p><img src="/e0901694/11.gif" alt></p>
+<h2 id="梯形"><a href="#梯形" class="headerlink" title="梯形"></a>梯形</h2><ul>
+<li><strong>只有</strong>一组对边平行的四边形叫做<strong>梯形</strong></li>
+<li>梯形中，互相平行的两条边叫做梯形的<strong>上底</strong>和<strong>下底</strong>，另外两条边叫做梯形的<strong>腰</strong></li>
+<li>从梯形上底的任意一点向下底引一条垂线，这个点和垂足之间的线段叫做梯形的<strong>高</strong><ul>
+<li>梯形有无数条高，但<strong>通过固定一点只能画一条高</strong></li>
+<li>与平行四边形不同，梯形只有一种长度的高。梯形的高只能从一条第画垂线，而不能画在梯形的腰上</li>
+</ul>
+</li>
+</ul>
+<p><img src="/e0901694/12.png" alt></p>
+<p><strong>等腰梯形：</strong></p>
+<ul>
+<li>两腰相等，同一个底边上的两个角相等</li>
+<li>等腰梯形是<strong>轴对称图形</strong></li>
+</ul>
+<p><img src="/e0901694/13.png" alt></p>
+<p><strong>直角梯形：</strong></p>
+<ul>
+<li>有两个直角</li>
+<li>与底边垂直的腰就是梯形的一条高</li>
+</ul>
+<p><img src="/e0901694/14.png" alt></p>
+<h2 id="组合图形"><a href="#组合图形" class="headerlink" title="组合图形"></a>组合图形</h2><ul>
+<li>图形可以看作是由几个简单图形组合而成的，这样的图形叫做组合图形</li>
+<li>什么样的图形是简单图形？<ul>
+<li>简单图形通常是指我们学过的长方形、正方形、三角形、梯形、平行四边形等单一的图形</li>
+</ul>
+</li>
+<li>同一个组合图形，按照不同的方法进行分割，可以得到不同的简单图形<ul>
+<li>无论怎么分割，最后都要检查一下所分成的几个图形是否都是简单图形</li>
+<li>分割线不能交叉</li>
+</ul>
+</li>
+</ul>
 ]]></content>
       <categories>
         <category>汇总整理</category>
@@ -334,6 +403,8 @@
 <li><a href="/e0901694/#三角形的认识">三角形的认识</a></li>
 <li><a href="/e0901694/#三角形的内角和">三角形的内角和</a></li>
 <li><a href="/e0901694/#平行四边形">平行四边形</a></li>
+<li><a href="/e0901694/#梯形">梯形</a></li>
+<li><a href="/e0901694/#组合图形">组合图形</a></li>
 </ul>
 <h3 id="01-分数与小数的关系"><a href="#01-分数与小数的关系" class="headerlink" title="01 分数与小数的关系"></a>01 分数与小数的关系</h3><p>分母是10的分数，可以化成一位小数；</p>
 <p>分母是100的分数，可以化成两位小数；</p>
