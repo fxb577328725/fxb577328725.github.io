@@ -45,6 +45,127 @@
       </tags>
   </entry>
   <entry>
+    <title>五年级下册复习知识汇总</title>
+    <url>/8690c114/</url>
+    <content><![CDATA[<h2 id="常用分数与小数"><a href="#常用分数与小数" class="headerlink" title="常用分数与小数"></a>常用分数与小数</h2><p>$\frac{1}{2}$ = 0.5</p>
+<p>$\frac{1}{4}$ = 0.25&emsp;$\frac{3}{4}$ = 0.75</p>
+<p>$\frac{1}{5}$ = 0.2&emsp;&emsp;$\frac{2}{5}$ = 0.4&emsp;&emsp;$\frac{3}{5}$ = 0.6&emsp;&emsp;$\frac{4}{5}$ = 0.8</p>
+<p>$\frac{1}{8}$ = 0.125&emsp;$\frac{3}{8}$ = 0.375&emsp;$\frac{5}{8}$ = 0.625&emsp;$\frac{7}{8}$ = 0.875</p>
+<h2 id="找单位“1”的方法"><a href="#找单位“1”的方法" class="headerlink" title="找单位“1”的方法"></a>找单位“1”的方法</h2><font color="red"><strong>口诀：“的”前，“比”后</strong></font>
+
+<h2 id="分数应用题"><a href="#分数应用题" class="headerlink" title="分数应用题"></a>分数应用题</h2><ul>
+<li>单位“1”已知，用乘法。单位“1”的数量 × 分率 = 分率对应的数量</li>
+<li>单位“1”未知，用除法。数量 ÷ 对应分率 = 单位“1”的数量</li>
+</ul>
+<p>单位“1”已知，指的是单位“1”对应的数量知道！</p>
+<h2 id="分数基本性质"><a href="#分数基本性质" class="headerlink" title="分数基本性质"></a>分数基本性质</h2><p>分数的分子和分母同时乘或除以相同的数（0除外），分数的大小不变。这叫做 <font color="red"><strong>分数的基本性质</strong></font>。</p>
+<p><img src="/8690c114/Hexo\FXB_GitHub\source\_posts\知识点整理汇总\01.png" alt></p>
+<p><img src="/8690c114/02.png" alt></p>
+<h2 id="2、3、5的倍数特征"><a href="#2、3、5的倍数特征" class="headerlink" title="2、3、5的倍数特征"></a>2、3、5的倍数特征</h2><p><strong>2 的倍数特征</strong>：个位是0、2、4、6、8</p>
+<p><strong>5 的倍数特征</strong>：个位是 0 或 5</p>
+<blockquote>
+<p>判断 2 和 5 的倍数时，看数的个位</p>
+</blockquote>
+<p><strong>3 的倍数特征</strong>：一个数的各位数之和时 3 的倍数，这个数就是 3 的倍数</p>
+<blockquote>
+<p>例：234，因为 2 + 3 + 4 = 9，而 9 是 3 的倍数，所以 234 也是 3 的倍数</p>
+<p>一个数是 2 的倍数，也可以说这个数含有因数 2</p>
+<p>一个数是 3 的倍数，也可以说这个数含有因数 3</p>
+<p>一个数是 5 的倍数，也可以说这个数含有因数 5</p>
+</blockquote>
+<h2 id="长方体"><a href="#长方体" class="headerlink" title="长方体"></a>长方体</h2><script type="math/tex; mode=display">
+\begin{equation}
+长方体
+\left\{
+             \begin{array}{lr}
+           8个顶点\\ \\
+           12条棱\left\{ \begin{array}{lar}4个长\\4个宽\\4个高\end{array}
+\right.\\ \\
+           6个面：上下、左右、前后
+             \end{array}
+\right.
+\end{equation}</script><ul>
+<li>相对的面相同</li>
+<li>长方体最有有两个面是正方形</li>
+</ul>
+<p><strong>棱长和</strong>：所有棱长之和，通俗理解就是所有棱的总长度，包含4个长、4个宽、4个高，将这些加起来就是长方体的棱长和</p>
+<p><strong>长方体的棱长和</strong> = 长 × 4 + 宽  × 4 + 高 × 4</p>
+<p>简化公式：<strong>长方体的棱长和</strong> = （长 + 宽 + 高）× 4</p>
+<p><strong>体积</strong>指的是物体所占空间的大小</p>
+<p><strong>长方体的体积</strong> = 底面积 × 高 = 长 × 宽 × 高</p>
+<p><strong>表面积</strong>指的是物体所有面的面积之和</p>
+<p><strong>长方体的面积公式</strong> = （长 × 宽 + 长 × 高 + 宽 × 高）× 2</p>
+<blockquote>
+<p>长方体的面积公式虽然长，但无需死记硬背，根据老师原来讲的三个数两两组合的方式，可以很轻松的列式并准确计算</p>
+</blockquote>
+<p>详细教程，扫描下方二维码观看：</p>
+<p><img src="/8690c114/03.jpg" alt></p>
+<h2 id="正方体"><a href="#正方体" class="headerlink" title="正方体"></a>正方体</h2><p>正方体是特殊的长方体，长方体的基本特征，正方体都有！</p>
+<p>正方体相当于长方体的 长、宽、高 都相等！</p>
+<script type="math/tex; mode=display">
+\begin{equation}
+正方体
+\left\{
+             \begin{array}{lr}
+           8个顶点\\ \\
+           12条棱：长度都相等\\ \\
+           6个面：面积都相等，都是正方形
+             \end{array}
+\right.
+\end{equation}</script><p>长方体的棱长和 = 长 × 4 + 宽  × 4 + 高 × 4</p>
+<p><strong>正方体的棱长和</strong> = 棱长 × 12</p>
+<p>长方体的体积 = 底面积 × 高 = 长 × 宽 × 高</p>
+<p><strong>正方体的体积</strong> = 底面积 × 高 = 棱长 × 棱长 × 棱长</p>
+<p>长方体的面积公式 = （长 × 宽 + 长 × 高 + 宽 × 高）× 2</p>
+<p><strong>正方体的面积公式</strong> = 棱长× 6</p>
+]]></content>
+      <categories>
+        <category>汇总整理</category>
+      </categories>
+      <tags>
+        <tag>五年级下册</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>01 简便计算 答案</title>
+    <url>/95417091/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="b64c4db1d90e9ffdd3e9be99c4490734ae6c8c76e5d0dd6f50c9c2120bec532b">ed52275d49d2a4af9918c1ae4e2944e97bcf30d77d2faa38c56b3d4cd545a30f</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 请点击这里，然后需要输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>题库答案</category>
+      </categories>
+      <tags>
+        <tag>简便计算</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>简便计算</title>
+    <url>/42d808a1/</url>
+    <content><![CDATA[<h1 id="凑整简单练习"><a href="#凑整简单练习" class="headerlink" title="凑整简单练习"></a>凑整简单练习</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">875 - 598</span><br><span class="line">137 + 97</span><br><span class="line">258 + 199</span><br></pre></td></tr></table></figure>
+<h1 id="加法简便运算"><a href="#加法简便运算" class="headerlink" title="加法简便运算"></a>加法简便运算</h1><h2 id="加法交换律"><a href="#加法交换律" class="headerlink" title="加法交换律"></a>加法交换律</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">125 + 76 + 75</span><br><span class="line">31 + 67 + 69</span><br><span class="line">554 + 313 + 287</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h2 id="加法结合律"><a href="#加法结合律" class="headerlink" title="加法结合律"></a>加法结合律</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">58 + 47 + 53</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h2 id="加法混合运算"><a href="#加法混合运算" class="headerlink" title="加法混合运算"></a>加法混合运算</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">44 + 28 + 32 + 56</span><br><span class="line">245 + 143 + 157 + 755</span><br><span class="line">245 + 180 + 20 + 155</span><br><span class="line">67 + 45 + 33 + 55</span><br><span class="line">278 + 242 + 58 + 122</span><br><span class="line">282 + 47 + 153 + 13</span><br></pre></td></tr></table></figure>
+<h1 id="临时存放"><a href="#临时存放" class="headerlink" title="临时存放"></a>临时存放</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">686 - ( 186 + 225 ) </span><br><span class="line">432 - 123 - 77</span><br><span class="line">327 + 27 + 73 - 127</span><br><span class="line">174 + 289 + 326 - 189</span><br></pre></td></tr></table></figure>
+<h2 id="难题"><a href="#难题" class="headerlink" title="难题"></a>难题</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">19999 + 1999 + 199 + 19</span><br><span class="line">10 + 20 + 30 + …… + 80 + 90 + 100</span><br><span class="line">2000 - 1999 + 1998 - 1997 + 1996 - 1995 + …… + 4 - 3 + 2 - 1</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>题库</category>
+      </categories>
+      <tags>
+        <tag>简便计算</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用字母表示数</title>
     <url>/b995d68b/</url>
     <content><![CDATA[<h2 id="用字母表示数"><a href="#用字母表示数" class="headerlink" title="用字母表示数"></a>用字母表示数</h2><p><strong>含有字母的式子的简便写法</strong>：</p>
@@ -84,7 +205,7 @@
 </ul>
 </blockquote>
 <h2 id="什么时候用加法定律"><a href="#什么时候用加法定律" class="headerlink" title="什么时候用加法定律"></a>什么时候用加法定律</h2><p>&emsp;&emsp;在一个加法式子里，某些加数通过 <strong>改变加数位置</strong> 或 <strong>改变运算顺序</strong> 的方式，可以凑成 整十、整百、整千……的数使计算简单，我们就是使用加法交换律 和 加法结合律。</p>
-<p>&emsp;&emsp;整体思想就是：<font color="#FF0000" size="3"><strong>凑整</strong></font></p>
+<p>&emsp;&emsp;整体思想就是：<font color="#FF0000" size="3"><strong>凑整</strong></font>，1 + 9，2 + 8，3 + 7，4 + 6，5 + 5</p>
 <ul>
 <li><strong>整数连加</strong>：可以看数的末尾，找 1 + 9，2 + 8，3 + 7，4 + 6，5 + 5</li>
 <li><strong>小数连加</strong>，不能只看数的末尾，还需要注意小数位数是否相同<ul>
