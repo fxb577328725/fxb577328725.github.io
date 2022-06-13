@@ -86,7 +86,7 @@
 \right.
 \end{equation}</script><ul>
 <li>相对的面相同</li>
-<li>长方体最有有两个面是正方形</li>
+<li>长方体最多有两个面是正方形</li>
 </ul>
 <p><strong>棱长和</strong>：所有棱长之和，通俗理解就是所有棱的总长度，包含4个长、4个宽、4个高，将这些加起来就是长方体的棱长和</p>
 <p><strong>长方体的棱长和</strong> = 长 × 4 + 宽  × 4 + 高 × 4</p>
@@ -117,7 +117,7 @@
 <p>长方体的体积 = 底面积 × 高 = 长 × 宽 × 高</p>
 <p><strong>正方体的体积</strong> = 底面积 × 高 = 棱长 × 棱长 × 棱长</p>
 <p>长方体的面积公式 = （长 × 宽 + 长 × 高 + 宽 × 高）× 2</p>
-<p><strong>正方体的面积公式</strong> = 棱长× 6</p>
+<p><strong>正方体的面积公式</strong> = 棱长 × 棱长 × 6</p>
 ]]></content>
       <categories>
         <category>汇总整理</category>
