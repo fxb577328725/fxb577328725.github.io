@@ -45,6 +45,131 @@
       </tags>
   </entry>
   <entry>
+    <title>03 三位数乘两位数</title>
+    <url>/c670f225/</url>
+    <content><![CDATA[<h2 id="三位数乘两位数的笔算方法"><a href="#三位数乘两位数的笔算方法" class="headerlink" title="三位数乘两位数的笔算方法"></a>三位数乘两位数的笔算方法</h2><ul>
+<li>先用两位数个位上的数字去乘三位数，得数的末位与两位数的个位对齐；</li>
+<li>再用两位数十位上的数字去乘三位数，得数的末位与两位数的十位对齐；</li>
+<li>最后把两次乘得的积相加；</li>
+</ul>
+<p>扫描下方二维码，查看视频教程：</p>
+<p><img src="/c670f225/01.jpg" alt></p>
+<blockquote>
+<p>因数末尾有0的乘法的简便方法：</p>
+<p>&emsp;&emsp;先把0前面的数相乘（写竖式时，将因数末尾0前面的数对齐），再看两个因数末尾<strong>一共</strong>有几个0，就在乘得的积末尾添上几个0。</p>
+<p>例：150 × 20，先算 15 × 2 = 30，再在 30 后面加两个0</p>
+</blockquote>
+<h2 id="积的变化规律"><a href="#积的变化规律" class="headerlink" title="积的变化规律"></a>积的变化规律</h2><p>&emsp;&emsp;<strong>在乘法里，一个因数不变，另一个因数乘一个数或除以一个不为0的数，积也乘或除以相同的数。</strong></p>
+<p><img src="/c670f225/02.jpeg" alt></p>
+<h2 id="估算"><a href="#估算" class="headerlink" title="估算"></a>估算</h2><ul>
+<li>把因数估大，则估算结果大于实际结果；反之估算结果小于实际结果；</li>
+<li>估算时把一个因数估大了，另一个因数就估小一些，他们的乘积更接近准确值</li>
+</ul>
+<h2 id="数量关系"><a href="#数量关系" class="headerlink" title="数量关系"></a>数量关系</h2><ul>
+<li><strong>单价 × 数量 = 总价</strong><ul>
+<li>数量 = 总价 ÷ 单价</li>
+<li>单价 = 总价 ÷ 数量</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>单价：购买商品时，每件的价钱叫做单价</p>
+<p>数量：购买物品的数量</p>
+<p>总价：购买商品总共花的钱叫做总价</p>
+</blockquote>
+<ul>
+<li><strong>速度 × 时间 = 路程</strong><ul>
+<li>时间 = 路程 ÷ 速度</li>
+<li>速度 = 路程 ÷ 时间</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>注意路程问题中的对应关系：</p>
+<p>&emsp;&emsp;常见的是往返问题，去时的路程 与 去时的速度、去时的时间 对应；同理，回来时的路程、速度、时间对应。</p>
+<p>去时速度 × 去时时间 = 去时路程</p>
+<p>一般往返问题的关键点：往返路程不变</p>
+</blockquote>
+<p><strong>火车过桥问题：</strong></p>
+<ul>
+<li>所行路程 = 桥长 + 车身长</li>
+<li>过桥的时间 = （桥长 + 车身长） ÷ 火车的速度</li>
+<li>火车的速度 = （桥长 + 车身长） ÷ 过桥的时间</li>
+</ul>
+<p>火车过桥问题视频教程(扫描下方二维码)：</p>
+<p><img src="/c670f225/03.jpg" alt></p>
+<h2 id="乘法运算定律"><a href="#乘法运算定律" class="headerlink" title="乘法运算定律"></a>乘法运算定律</h2><blockquote>
+<p>25 × 4 = 100</p>
+<p>125 × 8 = 1000</p>
+</blockquote>
+<ul>
+<li>两个数相乘，交换因数的位置，积不变，这叫做 <strong>乘法交换律</strong></li>
+<li><font color="#FF0000" size="3"><strong>a × b = b × a</strong></font>
+
+</li>
+</ul>
+<blockquote>
+<p>拓展：多个数相乘，任意交换因数的位置，积不变。</p>
+<p>例如：2 × 3 × 5 = 5 × 2 × 3</p>
+</blockquote>
+<ul>
+<li>三个数相乘，可以先把前两个数相乘，再乘第三个数，也可以先把后两个数相乘，再乘以第一个数，积不变，这叫做 <strong>乘法结合律</strong></li>
+<li><font color="#FF0000" size="3"><strong> ( a × b)   × c = a × ( b × c)  </strong></font>
+
+</li>
+</ul>
+<blockquote>
+<p>乘法交换律只是改变因数的位置，而乘法结合律改变了运算顺序</p>
+</blockquote>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th>乘法交换律</th>
+<th>乘法结合律</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&emsp;<font color="#FF0000" size="3"><strong>5</strong></font> × 17 × <font color="#FF0000" size="3"><strong>2</strong></font><br>= <font color="#FF0000" size="3"><strong>5</strong></font> × <font color="#FF0000" size="3"><strong>2</strong></font> × 17<br>= 10 × 17<br>= 170</td>
+<td>&emsp;17 × <font color="#FF0000" size="3"><strong>5</strong></font> ×  <font color="#FF0000" size="3"><strong>2</strong></font><br>= 17 × ( <font color="#FF0000" size="3"><strong>5</strong></font> × <font color="#FF0000" size="3"><strong>2</strong></font> )<br>= 17 × 10<br>= 170</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>难点</strong>：<font color="#FF0000" size="3"><strong>乘法分配律</strong></font></p>
+<ul>
+<li>两个数的和乘一个数，等于两个加数分别乘这个数，再相加，这叫做 <strong>乘法分配律</strong><ul>
+<li>(a + b) × c = a × c + b × c</li>
+<li>(a - b) × c = a × c - b × c</li>
+</ul>
+</li>
+</ul>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">简便计算式时经常用到的几组凑整数的算式：</span><br><span class="line">5 × 2</span><br><span class="line">5 × 4</span><br><span class="line">5 × 6</span><br><span class="line">5 × 8</span><br><span class="line">25 × 4</span><br><span class="line">125 × 8</span><br><span class="line"></span><br><span class="line">注意：看因数的末尾是以上几组时，尽量凑到一起。</span><br></pre></td></tr></table></figure>
+<p><img src="/c670f225/04.jpg" alt></p>
+<p><img src="/c670f225/05.jpg" alt></p>
+]]></content>
+      <categories>
+        <category>汇总整理</category>
+      </categories>
+      <tags>
+        <tag>四年级下册</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>计算题</title>
+    <url>/ab3eb394/</url>
+    <content><![CDATA[<h1 id="乘法"><a href="#乘法" class="headerlink" title="乘法"></a>乘法</h1><h2 id="简单"><a href="#简单" class="headerlink" title="简单"></a>简单</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">158 × 24</span><br><span class="line">15 × 18</span><br><span class="line">118 × 12</span><br><span class="line">158 × 35</span><br><span class="line">802 × 24</span><br><span class="line">216 × 35</span><br><span class="line">680 × 31</span><br><span class="line">793 × 49</span><br><span class="line">215 × 14</span><br><span class="line">108 × 92</span><br></pre></td></tr></table></figure>
+<h2 id="连乘"><a href="#连乘" class="headerlink" title="连乘"></a>连乘</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>题库</category>
+      </categories>
+      <tags>
+        <tag>计算题</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>五年级下册复习知识汇总</title>
     <url>/8690c114/</url>
     <content><![CDATA[<h2 id="常用分数与小数"><a href="#常用分数与小数" class="headerlink" title="常用分数与小数"></a>常用分数与小数</h2><p>$\frac{1}{2}$ = 0.5</p>
@@ -153,10 +278,22 @@
     <url>/42d808a1/</url>
     <content><![CDATA[<h1 id="凑整简单练习"><a href="#凑整简单练习" class="headerlink" title="凑整简单练习"></a>凑整简单练习</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">875 - 598</span><br><span class="line">137 + 97</span><br><span class="line">258 + 199</span><br></pre></td></tr></table></figure>
 <h1 id="加法简便运算"><a href="#加法简便运算" class="headerlink" title="加法简便运算"></a>加法简便运算</h1><h2 id="加法交换律"><a href="#加法交换律" class="headerlink" title="加法交换律"></a>加法交换律</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">125 + 76 + 75</span><br><span class="line">31 + 67 + 69</span><br><span class="line">554 + 313 + 287</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<h2 id="加法结合律"><a href="#加法结合律" class="headerlink" title="加法结合律"></a>加法结合律</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">58 + 47 + 53</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<h2 id="加法混合运算"><a href="#加法混合运算" class="headerlink" title="加法混合运算"></a>加法混合运算</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">44 + 28 + 32 + 56</span><br><span class="line">245 + 143 + 157 + 755</span><br><span class="line">245 + 180 + 20 + 155</span><br><span class="line">67 + 45 + 33 + 55</span><br><span class="line">278 + 242 + 58 + 122</span><br><span class="line">282 + 47 + 153 + 13</span><br></pre></td></tr></table></figure>
-<h1 id="临时存放"><a href="#临时存放" class="headerlink" title="临时存放"></a>临时存放</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">686 - ( 186 + 225 ) </span><br><span class="line">432 - 123 - 77</span><br><span class="line">327 + 27 + 73 - 127</span><br><span class="line">174 + 289 + 326 - 189</span><br></pre></td></tr></table></figure>
+<h2 id="加法结合律"><a href="#加法结合律" class="headerlink" title="加法结合律"></a>加法结合律</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">58 + 47 + 53</span><br><span class="line">546 + 1345 + 1655</span><br><span class="line">554 + 313 + 287</span><br><span class="line">254 + 183 + 117</span><br></pre></td></tr></table></figure>
+<h2 id="加法混合运算"><a href="#加法混合运算" class="headerlink" title="加法混合运算"></a>加法混合运算</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">44 + 28 + 32 + 56</span><br><span class="line">245 + 143 + 157 + 755</span><br><span class="line">245 + 180 + 20 + 155</span><br><span class="line">67 + 45 + 33 + 55</span><br><span class="line">278 + 242 + 58 + 122</span><br><span class="line">282 + 47 + 153 + 13</span><br><span class="line">208 + 154 + 46 + 292</span><br><span class="line">282 + 47 + 153 + 18</span><br></pre></td></tr></table></figure>
+<h1 id="乘法简便运算"><a href="#乘法简便运算" class="headerlink" title="乘法简便运算"></a>乘法简便运算</h1><h2 id="乘法交换律"><a href="#乘法交换律" class="headerlink" title="乘法交换律"></a>乘法交换律</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">4 × 60 × 25</span><br><span class="line">25 × 17 × 4</span><br><span class="line">6 × 9 × 15</span><br><span class="line">25 × 37 × 80</span><br><span class="line">125 × 9 × 8</span><br><span class="line">125 × 6 × 8</span><br></pre></td></tr></table></figure>
+<h2 id="乘法结合律"><a href="#乘法结合律" class="headerlink" title="乘法结合律"></a>乘法结合律</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">125 × 64</span><br><span class="line">125 × 56</span><br><span class="line">25 × 44</span><br></pre></td></tr></table></figure>
+<h2 id="乘法分配律"><a href="#乘法分配律" class="headerlink" title="乘法分配律"></a>乘法分配律</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">102 × 25</span><br><span class="line">98 × 25</span><br><span class="line">103 × 12</span><br><span class="line">198 × 35</span><br><span class="line">25 × 64</span><br><span class="line">15 × 103</span><br><span class="line">99 × 87</span><br><span class="line">156 × 99</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p><strong>带括号</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">(100 + 8) × 25</span><br></pre></td></tr></table></figure>
+<h2 id="乘法分配律逆运算"><a href="#乘法分配律逆运算" class="headerlink" title="乘法分配律逆运算"></a>乘法分配律逆运算</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">78 × 16 + 22 × 16</span><br><span class="line">130 × 17 + 17 × 70</span><br><span class="line">45 × 16 + 55 × 16</span><br></pre></td></tr></table></figure>
+<p>难题：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">99999 × 7 + 77777 × 5 + 22222</span><br><span class="line">127 × 62 + 72 × 62 + 62</span><br><span class="line">135 × 27 + 135 × 72 + 135</span><br><span class="line"></span><br><span class="line">1999 + 999 × 999</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h2 id="乘法混合运算"><a href="#乘法混合运算" class="headerlink" title="乘法混合运算"></a>乘法混合运算</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">32 × 125 × 25</span><br><span class="line">25 × 32 × 125</span><br></pre></td></tr></table></figure>
+<h1 id="临时存放"><a href="#临时存放" class="headerlink" title="临时存放"></a>临时存放</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">686 - ( 186 + 225 ) </span><br><span class="line">432 - 123 - 77</span><br><span class="line">327 + 27 + 73 - 127</span><br><span class="line">174 + 289 + 326 - 189</span><br><span class="line">569 - ( 208 + 169)  </span><br><span class="line">174 + 289 + 326 - 189</span><br><span class="line">716 - 218 - 182</span><br><span class="line">683 - 299</span><br><span class="line">895 - 103</span><br><span class="line">783 - ( 183 + 245)  </span><br></pre></td></tr></table></figure>
 <h2 id="难题"><a href="#难题" class="headerlink" title="难题"></a>难题</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">19999 + 1999 + 199 + 19</span><br><span class="line">10 + 20 + 30 + …… + 80 + 90 + 100</span><br><span class="line">2000 - 1999 + 1998 - 1997 + 1996 - 1995 + …… + 4 - 3 + 2 - 1</span><br></pre></td></tr></table></figure>
+<h1 id="应用题"><a href="#应用题" class="headerlink" title="应用题"></a>应用题</h1><font color="#FF0000" size="3"><strong>约定：加数为a，被减数为b，减数为c</strong></font>
+
+<p>某展览馆第一天卖出a张门票，第二天上午卖出a张门票，下午卖出a张门票，这两天一共卖出多少张门票？</p>
 ]]></content>
       <categories>
         <category>题库</category>
@@ -617,6 +754,15 @@
 <li><a href="/b995d68b/#用字母表示数">用字母表示数、数量关系、计算公式</a></li>
 <li><a href="/b995d68b/#加法运算定律">加法运算定律</a></li>
 </ul>
+<h3 id="第三单元-三位数乘两位数"><a href="#第三单元-三位数乘两位数" class="headerlink" title="第三单元 三位数乘两位数"></a>第三单元 三位数乘两位数</h3><p>详细知识点，点击下面链接：</p>
+<ul>
+<li><a href="/c670f225/#三位数乘两位数的笔算方法">三位数乘两位数的笔算</a></li>
+<li><a href="/c670f225/#积的变化规律">积的变化规律</a></li>
+<li><a href="/c670f225/#估算">估算</a></li>
+<li><a href="/c670f225/#数量关系">数量关系</a></li>
+<li><a href="/c670f225/#乘法运算定律">乘法运算定律</a></li>
+<li><a href="/c670f225/#"></a></li>
+</ul>
 <h3 id="第四单元-多边形的认识"><a href="#第四单元-多边形的认识" class="headerlink" title="第四单元 多边形的认识"></a>第四单元 多边形的认识</h3><p>详细知识点，点击下面链接：</p>
 <ul>
 <li><a href="/e0901694/#三角形的认识">三角形的认识</a></li>
@@ -729,8 +875,6 @@
 <p>一个数是 3 的倍数，也可以说这个数含有因数 3</p>
 <p>一个数是 5 的倍数，也可以说这个数含有因数 5</p>
 </blockquote>
-<h3 id="08-积的变化规律"><a href="#08-积的变化规律" class="headerlink" title="08 积的变化规律"></a>08 积的变化规律</h3><p>在乘法里，一个因数不变，另一个因数乘一个数或除以一个不为 0 的数，积也乘或除以相同的数</p>
-<p><img src="/24825520/03.jpeg" alt></p>
 <h3 id="09-分数的意义"><a href="#09-分数的意义" class="headerlink" title="09 分数的意义"></a>09 分数的意义</h3><p>把 <strong>单位“1”</strong> <font color="red"><strong>平均分</strong></font> 成若干份，表示这样的一份或几份的数，叫做<strong>分数</strong></p>
 <script type="math/tex; mode=display">
 \begin{equation}
